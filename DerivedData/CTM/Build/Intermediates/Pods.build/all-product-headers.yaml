@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/DerivedData/CTM/Build/Products/Debug-iphonesimulator/Pods_CTM.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-CTM-umbrella.h",
+          'external-contents': "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/Pods/Target Support Files/Pods-CTM/Pods-CTM-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_CTM-Swift.h",
+          'external-contents': "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/DerivedData/CTM/Build/Products/Debug-iphonesimulator/Pods_CTM.framework/Headers/Pods_CTM-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/DerivedData/CTM/Build/Products/Debug-iphonesimulator/Pods_CTM.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/DerivedData/CTM/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-CTM.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

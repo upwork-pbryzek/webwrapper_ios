@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "a2a46a819c5b93239eef2014d16a2f34"
+build_time: [543977741, 792209000]
+inputs:
+  "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/CTM/FirstViewController.swift": [543976894, 0]
+  "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/CTM/SecondViewController.swift": [542584699, 0]
+  "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/CTM/UserIdPopup.swift": [543976885, 0]
+  "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/CTM/Just.swift": [543383016, 0]
+  "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/CTM/SearchObj.swift": [543955369, 0]
+  "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/CTM/Urls.swift": [543947282, 0]
+  "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/CTM/Prefs.swift": [542586594, 0]
+  "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/CTM/Utils.swift": [543434725, 0]
+  "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/CTM/Consts.swift": [542613164, 0]
+  "/Users/Paul/Desktop/CodeBases/upwork/WrapperApp/webwrapper_ios/CTM/AppDelegate.swift": [543382463, 0]
