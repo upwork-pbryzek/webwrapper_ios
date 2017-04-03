@@ -13,6 +13,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0C073BB2FC315075B9DE90C24FE2C52B /* Crashlytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Crashlytics.framework; path = iOS/Crashlytics.framework; sourceTree = "<group>"; };
 		1834EFD8191EC73C3C2248A6ADC1D96C /* Pods-CTM-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CTM-resources.sh"; sourceTree = "<group>"; };
 		218D9FD69DA0C925F1813CBF065E1E8B /* Pods-CTM-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CTM-acknowledgements.plist"; sourceTree = "<group>"; };
 		34BD4AF3A6E56FD830973795BB8FF255 /* Pods_CTM.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CTM.framework; path = "Pods-CTM.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -26,6 +27,7 @@
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		CC2ADE26EA38C340A46B2AC534D67F02 /* Pods-CTM.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-CTM.modulemap"; sourceTree = "<group>"; };
 		D07CE157B7B41A6EC84F36055D9F1F3D /* Pods-CTM-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CTM-frameworks.sh"; sourceTree = "<group>"; };
+		E1B6F2CE97837747A137B7F9EC710EF8 /* Fabric.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Fabric.framework; path = iOS/Fabric.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,12 +50,46 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
+		0FBADD4C4C312933525779355B4A728B /* Crashlytics */ = {
+			isa = PBXGroup;
+			children = (
+				5AF2ED3E1B1DF375ACFB148B356F91A5 /* Frameworks */,
+			);
+			name = Crashlytics;
+			path = Crashlytics;
+			sourceTree = "<group>";
+		};
+		23F124B36981587A4F2E341B8AEC8517 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E1B6F2CE97837747A137B7F9EC710EF8 /* Fabric.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		311A1E37B88DB56F3D3211561848E76C /* Products */ = {
 			isa = PBXGroup;
 			children = (
 				34BD4AF3A6E56FD830973795BB8FF255 /* Pods_CTM.framework */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		4C01CE7C97A1F4AA2AA6283DCBF4679A /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0FBADD4C4C312933525779355B4A728B /* Crashlytics */,
+				BD8B321ABCC17A2AA08C4077E26ECA81 /* Fabric */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		5AF2ED3E1B1DF375ACFB148B356F91A5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0C073BB2FC315075B9DE90C24FE2C52B /* Crashlytics.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */ = {
@@ -69,6 +105,7 @@
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				4C01CE7C97A1F4AA2AA6283DCBF4679A /* Pods */,
 				311A1E37B88DB56F3D3211561848E76C /* Products */,
 				00CA43882D23CDEBC961ACD84E7BECFA /* Targets Support Files */,
 			);
@@ -98,6 +135,15 @@
 				7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BD8B321ABCC17A2AA08C4077E26ECA81 /* Fabric */ = {
+			isa = PBXGroup;
+			children = (
+				23F124B36981587A4F2E341B8AEC8517 /* Frameworks */,
+			);
+			name = Fabric;
+			path = Fabric;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

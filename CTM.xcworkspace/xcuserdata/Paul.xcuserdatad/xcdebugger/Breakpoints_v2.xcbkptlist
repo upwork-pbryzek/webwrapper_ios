@@ -151,11 +151,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CTM/UserIdPopup.swift"
-            timestampString = "512354448.431236"
+            timestampString = "512356096.919304"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "130"
-            endingLineNumber = "130"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
             landmarkName = "doSearchAPI(searchTerm:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -183,11 +183,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CTM/UserIdPopup.swift"
-            timestampString = "512354448.431236"
+            timestampString = "512356096.919304"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "100"
-            endingLineNumber = "100"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
             landmarkName = "doSearchAPI(searchTerm:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -199,11 +199,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CTM/UserIdPopup.swift"
-            timestampString = "512354448.431236"
+            timestampString = "512356096.919304"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "93"
-            endingLineNumber = "93"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
             landmarkName = "doSearchAPI(searchTerm:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -215,7 +215,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CTM/UserIdPopup.swift"
-            timestampString = "512354448.431236"
+            timestampString = "512356096.919304"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "107"
@@ -231,75 +231,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CTM/UserIdPopup.swift"
-            timestampString = "512354448.431236"
+            timestampString = "512356096.919304"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "108"
-            endingLineNumber = "108"
-            landmarkName = "doSearchAPI(searchTerm:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CTM/UserIdPopup.swift"
-            timestampString = "512354448.431236"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "97"
-            endingLineNumber = "97"
-            landmarkName = "doSearchAPI(searchTerm:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "CTM.UserIdPopup.(doSearchAPI (searchTerm : Swift.String) -&gt; ()).(closure #1)"
-                  moduleName = "CTM"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Paul/Desktop/CodeBases/upwork/WrapperApp/tmp/CTM/CTM/UserIdPopup.swift"
-                  timestampString = "512331447.505221"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "77"
-                  endingLineNumber = "77"
-                  offsetFromSymbolStart = "1758">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "CTM.UserIdPopup.(doSearchAPI (searchTerm : Swift.String) -&gt; ()).(closure #1)"
-                  moduleName = "CTM"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Paul/Desktop/CodeBases/upwork/WrapperApp/tmp/CTM/CTM/UserIdPopup.swift"
-                  timestampString = "512331447.507415"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "77"
-                  endingLineNumber = "77"
-                  offsetFromSymbolStart = "1835">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CTM/UserIdPopup.swift"
-            timestampString = "512354448.431236"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "122"
-            endingLineNumber = "122"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
             landmarkName = "doSearchAPI(searchTerm:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -375,11 +311,29 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CTM/UserIdPopup.swift"
-            timestampString = "512354448.431236"
+            timestampString = "512356096.919304"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "238"
-            endingLineNumber = "238">
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "UserIdPopup"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CTM/UserIdPopup.swift"
+            timestampString = "512356086.090437"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "doSearchAPI(searchTerm:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

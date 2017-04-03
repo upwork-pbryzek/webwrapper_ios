@@ -1,3 +1,16 @@
-PODFILE CHECKSUM: e33c52befba3806267300672ee0b2e33ad6d71bd
+PODS:
+  - Crashlytics (3.4.1):
+    - Fabric (~> 1.6.0)
+  - Fabric (1.6.1)
+
+DEPENDENCIES:
+  - Crashlytics
+  - Fabric
+
+SPEC CHECKSUMS:
+  Crashlytics: 41574a245bc6ae10c55d57f385ebd2004e5bee05
+  Fabric: bf0ceb04e7c924090efc5f8c55e4fbcca189e0a0
+
+PODFILE CHECKSUM: 6ed911e5a9bf0245d827e459c96272f6af248281
 
 COCOAPODS: 1.2.0
